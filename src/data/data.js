@@ -4,7 +4,7 @@ import RealEst from '../assets/projects/realestate.jpg'
 export const data=[
     {
         id:1,
-        name:"Recipe finder Application using react",
+        name:"React JS Application",
         image:WorkIm,
         github:"https://github.com/faria100/recipe.git",
         live:"",
